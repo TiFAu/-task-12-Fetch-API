@@ -1,0 +1,1 @@
+request.headers.get ( "Content-Type" )
