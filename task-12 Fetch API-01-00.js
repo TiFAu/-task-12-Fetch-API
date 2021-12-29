@@ -1,2 +1,2 @@
 let request = new Request ( "https://api.github.com/users" )
-console.log (request)
+console.log (request)git remote add origin git@github.com:TiFAu/-task-12-Fetch-API.gitgit remote add origin git@github.com:TiFAu/-task-12-Fetch-API.git
